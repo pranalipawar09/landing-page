@@ -13,11 +13,6 @@ A responsive landing page built using HTML and CSS with a modern and clean user 
 - HTML5
 - CSS3
 
-## Preview
-(Add a screenshot here)
-
-## Live Demo
-(Add GitHub Pages link here)
 
 ## Author
 Pranali Pawar
